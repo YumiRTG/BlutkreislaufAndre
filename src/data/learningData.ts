@@ -70,7 +70,8 @@ export const learningModules: LearningModule[] = [
     subtitle: 'Was ist der Blutkreislauf?',
     duration: '15 Minuten',
     description: 'Lerne die Grundlagen des Blutkreislaufs und seine lebenswichtigen Funktionen kennen.',
-    image: '/images/blutkreislauf-gesamt.jpg',
+    image: 'images/blutkreislauf-gesamt.jpg',
+    
     steps: [
       {
         id: 'e1',
