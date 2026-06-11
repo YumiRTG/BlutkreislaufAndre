@@ -118,7 +118,7 @@ Kleiner Kreislauf (Lungenkreislauf):
 • Transportiert sauerstoffarmes Blut zur Lunge
 • In der Lunge wird Sauerstoff aufgenommen
 • CO2 wird abgegeben (ausgeatmet)`,
-        image: '/images/blutkreislauf-gesamt.jpg',
+        image: 'images/blutkreislauf-gesamt.jpg',
         tip: 'Wichtig: Im Körperkreislauf fließt in den Arterien sauerstoffreiches Blut, im Lungenkreislauf fließt in der Lungenarterie sauerstoffarmes Blut!'
       }
     ],
@@ -186,7 +186,7 @@ Kleiner Kreislauf (Lungenkreislauf):
     subtitle: 'Aufbau und Funktion des Herzens',
     duration: '20 Minuten',
     description: 'Lerne den Aufbau des Herzens mit seinen vier Kammern und vier Klappen kennen.',
-    image: '/images/herz-anatomie.jpg',
+    image: 'images/herz-anatomie.jpg',
     steps: [
       {
         id: 'h1',
@@ -202,7 +202,7 @@ Kammern (unten):
 • Linke Kammer (Ventriculus sinister): Pumpt sauerstoffreiches Blut in die Aorta zum Körper
 
 Die linke Kammer hat die dickste Muskulatur, da sie das Blut mit hohem Druck in den gesamten Körper pumpen muss.`,
-        image: '/images/herz-anatomie.jpg',
+        image: 'images/herz-anatomie.jpg',
         tip: 'Merksatz: Rechts = Lunge (sauerstoffarm), Links = Körper (sauerstoffreich)'
       },
       {
@@ -219,7 +219,7 @@ Taschenklappen (Ausflussklappen):
 • Aortenklappe: Zwischen linker Kammer und Aorta
 
 Während der Systole (Kontraktion) schließen sich die Vorhof-Kammer-Klappen und die Taschenklappen öffnen sich. In der Diastole (Erschlaffung) ist es umgekehrt.`,
-        image: '/images/herzklappen.jpg',
+        image: 'images/herzklappen.jpg',
         tip: 'Stell dir die Klappen wie Einbahnstraßen vor - sie verhindern, dass das Blut zurückfließt!'
       },
       {
@@ -294,7 +294,7 @@ In Ruhe schlägt das Herz etwa 60-80 Mal pro Minute und pumpt ca. 5 Liter Blut p
     subtitle: 'Arterien, Venen und Kapillaren',
     duration: '20 Minuten',
     description: 'Lerne die drei Arten von Blutgefäßen und ihren Aufbau kennen.',
-    image: '/images/blutgefaesse-aufbau.jpg',
+    image: 'images/blutgefaesse-aufbau.jpg',
     steps: [
       {
         id: 'bg1',
@@ -351,7 +351,7 @@ Besonderheiten:
 • Das Blut fließt hier sehr langsam (0,3 mm/s)
 • Die Gesamtfläche aller Kapillaren ist riesig
 • Etwa 20 Liter Flüssigkeit werden täglich hier ausgetauscht`,
-        image: '/images/blutgefaesse-aufbau.jpg',
+        image: 'images/blutgefaesse-aufbau.jpg',
         tip: 'Stell dir die Kapillaren wie einen Marktplatz vor: Hier findet der Austausch zwischen Blut und Gewebe statt!'
       }
     ],
@@ -410,7 +410,7 @@ Besonderheiten:
     subtitle: 'Der Körperkreislauf im Detail',
     duration: '20 Minuten',
     description: 'Verfolge den Weg des Blutes durch den großen Kreislauf und lerne die Versorgung der Organe kennen.',
-    image: '/images/koerperkreislauf.jpg',
+    image: 'images/koerperkreislauf.jpg',
     steps: [
       {
         id: 'kk1',
@@ -447,7 +447,7 @@ Beine:
 • Schlagadern führen zu den Beinen und Füßen
 
 Überall in den Organen verzweigen sich die Arterien in feinere Kapillaren, wo der Stoffaustausch stattfindet.`,
-        image: '/images/koerperkreislauf.jpg',
+        image: 'images/koerperkreislauf.jpg',
         tip: 'Das Gehirn ist besonders empfindlich auf Sauerstoffmangel - schon nach 4-6 Minuten ohne Sauerstoff kommt es zu bleibenden Schäden!'
       },
       {
@@ -517,7 +517,7 @@ Der Kreislauf ist geschlossen - das sauerstoffarme Blut fließt nun in den klein
     subtitle: 'Der Lungenkreislauf und Gasaustausch',
     duration: '20 Minuten',
     description: 'Verfolge den Weg des Blutes durch die Lunge und verstehe den Gasaustausch.',
-    image: '/images/lungenkreislauf.jpg',
+    image: 'images/lungenkreislauf.jpg',
     steps: [
       {
         id: 'lk1',
@@ -553,7 +553,7 @@ Der Austausch:
 • Die roten Blutkörperchen nehmen den Sauerstoff auf
 
 Das Blut wird nun sauerstoffreich!`,
-        image: '/images/gasaustausch.jpg',
+        image: 'images/gasaustausch.jpg',
         tip: 'Die Diffusion funktioniert wie ein Aroma, das sich im Raum verteilt - Stoffe bewegen sich immer vom Ort mit höherer Konzentration zum Ort mit niedrigerer Konzentration.'
       },
       {
@@ -573,7 +573,7 @@ Und der Kreislauf beginnt von Neuem:
 • Der große Kreislauf beginnt wieder!
 
 Der Blutkreislauf ist ein geschlossenes System ohne Anfang und Ende - er läuft kontinuierlich.`,
-        image: '/images/lungenkreislauf.jpg',
+        image: 'images/lungenkreislauf.jpg',
         tip: 'Atme tief ein - mit jedem Atemzug werden tausende Lungenbläschen mit frischem Sauerstoff versorgt!'
       }
     ],
@@ -653,7 +653,7 @@ Der Blutkreislauf ist ein geschlossenes System ohne Anfang und Ende - er läuft 
     subtitle: 'Finale Prüfung deines Wissens',
     duration: '25 Minuten',
     description: 'Wiederhole das Gelernte und teste dein Wissen im Abschlusstest.',
-    image: '/images/blutkreislauf-gesamt.jpg',
+    image: 'images/blutkreislauf-gesamt.jpg',
     steps: [
       {
         id: 'z1',
